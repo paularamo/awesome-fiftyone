@@ -64,7 +64,7 @@ To contribute, fork the repo, make your changes, and submit a pull request. All 
 
 If you enjoy the content here, please give the repository a ⭐ and share it with others who might benefit from it. Let’s spread the word about FiftyOne and empower more people to build amazing things with it.
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/paula-ramos-phd/) or [X](https://x.com/PJRAMG) to stay updated on my latest projects and insights.
+Follow me on [LinkedIn](https://www.linkedin.com/in/paula-ramos-phd/), [Medium](https://medium.com/@paularamos_phd) or [X](https://x.com/PJRAMG) to stay updated on my latest projects and insights.
 
 ## 📄 License
 
