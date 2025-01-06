@@ -1,6 +1,15 @@
  # Awesome-FiftyOne
 
-![FiftyOne Logo](https://voxel51.com/img/fiftyone/fiftyone-logo.png)  
+<div align="center">
+<p align="center">
+
+<!-- prettier-ignore -->
+<img src="https://user-images.githubusercontent.com/25985824/106288517-2422e000-6216-11eb-871d-26ad2e7b1e59.png" height="55px"> &nbsp;
+<img src="https://user-images.githubusercontent.com/25985824/106288518-24bb7680-6216-11eb-8f10-60052c519586.png" height="50px"> 
+
+<div align="center">
+<p align="center">
+ 
 *A curated collection of resources, guides, and projects for FiftyOne, created and maintained by [Paula Ramos](#).*
 
 Welcome to **Awesome-FiftyOne**! 🎉 This repository is dedicated to sharing content, tutorials, use cases, and insights I have created based on my experience with [FiftyOne](https://voxel51.com/fiftyone/), an open-source tool for dataset curation and computer vision workflows. Whether you're a beginner exploring FiftyOne for the first time or an advanced user looking for innovative ways to use it, you'll find something valuable here.
