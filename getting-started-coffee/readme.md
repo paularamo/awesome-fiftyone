@@ -21,31 +21,32 @@ This notebook demonstrates:
 <table align="left">
     <tr>
         <td>
-            <a target="_blank" href="https://colab.research.google.com/github/voxel51/fiftyone-examples/blob/master/examples/quickstart.ipynb">
+            <a target="_blank" href="https://colab.research.google.com/github/paularamo/awesome-fiftyone/blob/main/getting-started-coffee/quickstart_coffee_dataset.ipynb">
                 <img src="https://user-images.githubusercontent.com/25985824/104791629-6e618700-5769-11eb-857f-d176b37d2496.png" height="32" width="32">
                 Try in Google Colab
             </a>
         </td>
         <td>
-            <a target="_blank" href="https://nbviewer.jupyter.org/github/voxel51/fiftyone-examples/blob/master/examples/quickstart.ipynb">
+            <a target="_blank" href="https://nbviewer.jupyter.org/github/paularamo/awesome-fiftyone/blob/main/getting-started-coffee/quickstart_coffee_dataset.ipynb">
                 <img src="https://user-images.githubusercontent.com/25985824/104791634-6efa1d80-5769-11eb-8a4c-71d6cb53ccf0.png" height="32" width="32">
                 Share via nbviewer
             </a>
         </td>
         <td>
-            <a target="_blank" href="https://github.com/voxel51/fiftyone-examples/blob/master/examples/quickstart.ipynb">
+            <a target="_blank" href="https://github.com/paularamo/awesome-fiftyone/blob/main/getting-started-coffee/quickstart_coffee_dataset.ipynb">
                 <img src="https://user-images.githubusercontent.com/25985824/104791633-6efa1d80-5769-11eb-8ee3-4b2123fe4b66.png" height="32" width="32">
                 View on GitHub
             </a>
         </td>
         <td>
-            <a href="https://github.com/voxel51/fiftyone-examples/raw/master/examples/quickstart.ipynb" download>
+            <a href="https://github.com/paularamo/awesome-fiftyone/blob/main/getting-started-coffee/quickstart_coffee_dataset.ipynb" download>
                 <img src="https://user-images.githubusercontent.com/25985824/104792428-60f9cc00-576c-11eb-95a4-5709d803023a.png" height="32" width="32">
                 Download notebook
             </a>
         </td>
     </tr>
 </table>
+
 
 ---
 
