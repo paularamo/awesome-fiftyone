@@ -77,6 +77,18 @@ session = fo.launch_app(dataset)
 
 - Visual and report-based
 
+Summary Card:
+![Image](https://github.com/user-attachments/assets/4491333b-39d5-47eb-a37b-60827f867f2d)
+
+Metric Performance Card:
+![Image](https://github.com/user-attachments/assets/17702e31-0a95-43b8-89a8-48c4705a301f)
+
+Class performance Card:
+![Image](https://github.com/user-attachments/assets/e0ab993a-b5f2-4ff5-8e4f-a770d98da42a)
+
+Confusion Matrix Card:
+![Image](https://github.com/user-attachments/assets/31c08f43-4377-4aff-86ea-23063bbaf67f)
+
 ---
 
 ## Contributing
