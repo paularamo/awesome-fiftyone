@@ -3,6 +3,8 @@
 #save that in disk in data_dir.
 #data_path = original images
 #labels_path = masks
+#explore my dataset with FO
+
 
 #https://docs.voxel51.com/integrations/lightning_flash.html
 from itertools import chain
