@@ -1,0 +1,17 @@
+name: voxel51/cubes
+type: dataset
+author: Paula Ramos
+version: 1.0.0
+url: https://github.com/voxel51/coco-2017
+source: https://github.com/openvinotoolkit/anomalib/
+license: Apache2.0
+description: Anomaly detection cubes
+fiftyone:
+  version: "*"
+supports_partial_downloads: true
+tags:
+  - image
+  - classification
+splits:
+size_samples:
+```
