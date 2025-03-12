@@ -5,7 +5,7 @@ Welcome to the **Getting Started with FiftyOne** workshop! This hands-on session
 ## 🚀 Workshop Overview
 This workshop is designed to introduce **data-centric AI** concepts and show how **FiftyOne** enhances your computer vision projects.
 
-### **🛠 What you will learn**
+### **🛠 What you Will Learn**
 - Loading, querying, and filtering datasets.
 - Working with embeddings for clustering and anomaly detection.
 - Evaluating model performance using FiftyOne plugins.
