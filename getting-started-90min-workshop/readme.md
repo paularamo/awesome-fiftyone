@@ -21,7 +21,7 @@ python3.11 -m venv .venv
 # Activate the virtual environment (.venv) should appear in your terminal window afterwards
 source .venv/bin/activate
 ```
-## 🛠️ Install FiftyOne 
+## ⚙️ Install FiftyOne 
 ```bash
 ## The code on this repository has been tested on version 1.3.1 of fiftyone
 pip install fiftyone==1.3.1
@@ -103,5 +103,5 @@ To get the most out of the workshop, follow this order:
 🔗 [FiftyOne Tutorials](https://voxel51.com/docs/fiftyone/tutorials/index.html)  
 🔗 [Join the Community](https://discord.com/invite/fiftyone-community)  
 
-👩‍💻 Happy coding and exploring **FiftyOne**! 🚀
+👩‍💻 Happy coding while exploring **FiftyOne**! 🚀
 
