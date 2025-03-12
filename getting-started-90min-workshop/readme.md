@@ -13,10 +13,18 @@ This workshop is designed to introduce **data-centric AI** concepts and show how
 - Exploring advanced data curation and 3D visualization.
 
 ## 📥 Setup Instructions
-Before starting, ensure you have **Python 3.7+** installed and set up a virtual environment:
+Before starting, ensure you have **Python 3.11+** installed and set up a virtual environment:
 
 ```bash
-pip install fiftyone
+# Create the virtual environment within the project's folder
+python3.11 -m venv .venv
+# Activate the virtual environment (.venv) should appear in your terminal window afterwards
+source .venv/bin/activate
+```
+## 🛠️ Install FiftyOne 
+```bash
+## The code on this repository has been tested on version 1.3.1 of fiftyone
+pip install fiftyone==1.3.1
 ```
 For a complete guide, check the [FiftyOne installation documentation](https://github.com/voxel51/fiftyone-examples?tab=readme-ov-file#-prerequisites-for-beginners-) for beginners.
 
