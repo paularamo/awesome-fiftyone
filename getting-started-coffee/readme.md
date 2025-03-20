@@ -1,20 +1,44 @@
-# FiftyOne Quickstart Notebook - With A Coffee Dataset 
+# Awesome-FiftyOne: Coffee Getting Started
 
-Welcome to my FiftyOne Quickstart Notebook! This notebook showcases the powerful capabilities of [FiftyOne](https://voxel51.com/fiftyone) for dataset curation, visualization, and machine learning workflows. Explore the rich features of FiftyOne through hands-on examples, learn how to integrate it into your projects, and enhance your computer vision workflows.
+<div align="center">
+<p align="center">
 
-This blog will guide you throught the notebook, [Journey into Visual AI: Exploring FiftyOne Together — Part II Getting Started](https://medium.com/@paularamos_phd/journey-into-visual-ai-exploring-fiftyone-together-part-ii-getting-started-14cca5adfcd3 )
+ <img src="https://user-images.githubusercontent.com/25985824/106288517-2422e000-6216-11eb-871d-26ad2e7b1e59.png" height="55px"> &nbsp;
+<img src="https://user-images.githubusercontent.com/25985824/106288518-24bb7680-6216-11eb-8f10-60052c519586.png" height="50px"> 
 
----
+</p>
+</div>
+ 
+*A curated collection of resources, guides, and projects for FiftyOne, created and maintained by [Paula Ramos](#).*
 
-## 📘 Notebook Highlights
+Welcome to **Awesome-FiftyOne**! 🎉 This repository is dedicated to sharing content, tutorials, and hands-on examples using [FiftyOne](https://voxel51.com/fiftyone/), an open-source tool for dataset curation, visualization, and machine learning workflows. This collection focuses on exploring and analyzing coffee-related datasets using FiftyOne.
 
-This notebook demonstrates:
+## 🌟 What’s Inside?
 
-- **Loading and Visualizing Datasets**: Import datasets from various sources and explore them visually.
-- **Interactive Exploration**: Use the FiftyOne App directly in this notebook to explore datasets and labels.
-- **Data Insights**: Compute dataset uniqueness, mistakenness, and other metrics to curate high-quality datasets.
-- **Model Evaluation**: Evaluate model predictions and debug performance issues effectively.
-- **Exporting Datasets**: Learn how to prepare datasets for retraining or other tasks.
+This repository includes **Jupyter Notebooks** demonstrating different aspects of **computer vision and machine learning** workflows using FiftyOne:
+
+### 📘 Notebooks & Features
+
+1️⃣ **Quickstart with Coffee Dataset**  
+   - Load and visualize coffee-related datasets.  
+   - Explore dataset insights interactively using FiftyOne.  
+   - Compute dataset uniqueness, mistakenness, and other key metrics.  
+   - Learn how to prepare datasets for retraining or further analysis.  
+
+2️⃣ **Coffee Tree Geolocation Analysis**  
+   - Work with geolocation data for coffee tree analysis.  
+   - Visualize coffee-growing regions with FiftyOne and geospatial tools.  
+   - Investigate patterns in coffee cultivation areas.
+
+3️⃣ **Annotation with Segment Anything (SAM2)**  
+   - Explore annotation workflows using the Segment Anything Model (SAM2).  
+   - Generate and refine annotations for coffee-related images.    
+
+4️⃣ **Model Evaluation: Mask R-CNN for Coffee Detection**  
+   - Evaluate a trained Mask R-CNN model on a coffee dataset.  
+   - Debug model predictions and assess performance.  
+   - Generate classification reports and visualize results.  
+
 
 ## 🚀 Try It Now
 
@@ -46,40 +70,55 @@ This notebook demonstrates:
         </td>
     </tr>
 </table>
-
-
 ---
 
-## 🛠️ Features Explored in This Notebook
+## 🛠️ Why Use FiftyOne?
 
-### 1️⃣ **Dataset Loading**
-- Import datasets in COCO, Pascal VOC, or custom formats.
-- Example: Coffee-Beans Dataset loaded from HuggingFace Hub.
+FiftyOne is a powerful tool that enhances dataset curation and model evaluation in computer vision. Some key benefits include:
 
-### 2️⃣ **Interactive Visualization**
-- Embedded FiftyOne App for exploring datasets.
-- Access and manipulate views in Python and App.
-
-### 3️⃣ **Analyzing Datasets**
-- Compute uniqueness and mistakenness metrics.
-- Filter and visualize dataset insights.
-
-### 4️⃣ **Model Debugging**
-- Evaluate model predictions and identify errors.
-- Generate classification reports and performance metrics.
-
-### 5️⃣ **Exporting Data**
-- Prepare datasets for retraining in various formats.
+- **Interactive Visualization**: Explore datasets with a powerful visual interface.  
+- **Data Curation & Filtering**: Identify anomalies and improve dataset quality.  
+- **Model Evaluation**: Debug and enhance model performance.  
+- **Exporting & Integration**: Work seamlessly with formats like COCO, Pascal VOC, and custom datasets.  
 
 ---
 
 ## 🔗 Additional Resources
 
-- [FiftyOne Documentation](https://voxel51.com/docs/fiftyone)
-- [FiftyOne Tutorials](https://voxel51.com/docs/fiftyone/tutorials/index.html)
-- [FiftyOne GitHub Repository](https://github.com/voxel51/fiftyone)
-- [FiftyOne Blog](https://medium.com/voxel5)
+- 📖 [FiftyOne Documentation](https://voxel51.com/docs/)  
+- 🎥 [FiftyOne Video Tutorials](https://www.youtube.com/channel/UC6-KZNQVbLZ8gOZRJHqFbiA)  
+- 📝 [FiftyOne Blog](https://voxel51.com/blog/)  
+- 💻 [FiftyOne GitHub Repository](https://github.com/voxel51/fiftyone)  
 
 ---
 
-Thank you for exploring FiftyOne with this notebook! If you have questions or suggestions, feel free to open an issue or contribute to the repository. Happy exploring! 🎉
+## 🤝 How to Contribute?
+
+Would you like to contribute? Here’s how:
+
+- Share your own **FiftyOne-powered projects**  
+- Suggest improvements or request additional tutorials  
+- Report bugs or **submit feature requests**  
+
+To contribute, **fork the repository**, make changes, and submit a **pull request**. Let’s build an amazing FiftyOne learning hub together! 🚀  
+
+---
+
+## 📣 Stay Connected  
+
+If you find this repository helpful, consider giving it a ⭐ and sharing it with others!  
+
+Follow me on:  
+- [LinkedIn](https://www.linkedin.com/in/paula-ramos-phd/)  
+- [Medium](https://medium.com/@paularamos_phd)  
+- [X (Twitter)](https://x.com/PJRAMG)  
+
+---
+
+## 📄 License  
+
+This project is licensed under the **MIT License**. Feel free to use, modify, and share the content, but please give credit where it’s due.  
+
+---
+
+Let’s continue making the FiftyOne community even **more awesome** together! 💪🎉  
