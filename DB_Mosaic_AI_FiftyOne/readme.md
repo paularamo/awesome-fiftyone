@@ -38,7 +38,7 @@ This notebook showcases how to bring this future into practice using:
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Databricks account with Mosaic AI Vector Search enabled
 - A vector search endpoint and catalog + schema set up
@@ -49,14 +49,14 @@ This notebook showcases how to bring this future into practice using:
 
 ---
 
-## 📂 Files
+## Files
 
 - `fiftyone_mosaic_full_setup_finalipynb`: Full working notebook
 - `README.md`: This file
 
 ---
 
-## ✨ Future Extensions
+## Future Extensions
 
 - Use your own image dataset
 - Extend to patch-level embeddings (objects)
@@ -65,9 +65,10 @@ This notebook showcases how to bring this future into practice using:
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
-Created by Paula Ramos  
+Created by Paula Ramos, with valuable support and collaboration from Tom Schmidt and Prerna Dhareshwar.  
+
 For more on FiftyOne + Vector Search: [Voxel51 Docs](https://docs.voxel51.com/integrations/mosaic.html)
 
 ---
